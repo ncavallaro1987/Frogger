@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Log\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ log\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=moveSpeed
+comment2.target=Log(int)
+comment2.text=\r\n\ Create\ a\ log\r\n
+comment3.params=
+comment3.target=void\ removeLog()
+comment3.text=\r\n\ remove\ objects\ at\ edge\ of\ world\r\n
+comment4.params=
+comment4.target=int\ getSpeed()
+numComments=5
